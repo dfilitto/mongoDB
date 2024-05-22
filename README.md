@@ -1,4 +1,4 @@
-![](https://github.com/dfilitto/MeuBichinhoVirtual/blob/main/Construindo%20o%20mesmo%20jogo%20em%20v%C3%A1rias%20Game%20Engines.jpg?raw=true)
+![](https://github.com/dfilitto/mongoDB/blob/main/Apresenta%C3%A7%C3%A3o.jpg)
 # MongoDB - Do básico ao avançado
 Durante nossos encontros você irá aprender:
 - Sobre banco de dados não relacionais
